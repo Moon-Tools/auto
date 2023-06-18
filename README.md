@@ -20,3 +20,4 @@ Run the file
 ## Support
 
 For support, join https://discord.gg/c8ksPGPZvk and dm Moon for support
+If it says something about "Improper Token" you have to do pip install discord.py-self
